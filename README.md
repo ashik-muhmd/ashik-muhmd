@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/ashik-muhammed-80845b420/">
     <img src="https://img.shields.io/badge/LinkedIn-Ashik%20Muhammed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ashik-muhmd">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -47,7 +47,7 @@ Core team member at Cybroxa Private Limited, where I work on development and tec
 
 - Building a strong foundation in **penetration testing** and **web application security** (OWASP Top 10)
 - Practising on legal training platforms and home labs
-- Developing websites with security best practices from day one
+- Developing full-stack applications with security best practices from day one
 - Documenting everything I learn through small projects and write-ups
 
 ---
@@ -65,7 +65,7 @@ Core team member at Cybroxa Private Limited, where I work on development and tec
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing%20Fundamentals-00FF9C?style=for-the-badge&logo=kalilinux&logoColor=black)
 
 #### Development & Tools
-![Full-Stack Development](https://img.shields.io/badge/Website%20Development-0A0A0A?style=for-the-badge&logo=html5&logoColor=00FF9C)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-0A0A0A?style=for-the-badge&logo=react&logoColor=00FF9C)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -82,7 +82,7 @@ Selected work will be pinned above.
 I’m currently building and documenting:
 
 - Small security utilities and lab write-ups
-- Secure web applications following best practices
+- Secure full-stack applications following best practices
 - CTF / authorized lab repositories
 
 *(Projects will be added here with proper documentation as they are completed.)*
@@ -93,8 +93,8 @@ I’m currently building and documenting:
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashik-muhmd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashik-muhmd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" />
 
 </div>
 
@@ -108,11 +108,11 @@ I'm open to:
 - Collaboration on learning-focused and **authorized** security projects
 - Connecting with security professionals and developers
 
-| Platform     | Link                                      |
-|--------------|-------------------------------------------|
-| Portfolio    | [ashik.cybroxa.com](https://ashik.cybroxa.com) |
-| LinkedIn     | [Ashik Muhammed](https://www.linkedin.com/in/ashik-muhammed-80845b420/) |
-| GitHub       | [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
+| Platform  | Link |
+|-----------|------|
+| Portfolio | [ashik.cybroxa.com](https://ashik.cybroxa.com) |
+| LinkedIn  | [Ashik Muhammed](https://www.linkedin.com/in/ashik-muhammed-80845b420/) |
+| GitHub    | [@ashik-muhmd](https://github.com/ashik-muhmd) |
 
 ---
 
@@ -124,6 +124,6 @@ I'm open to:
   # Building securely.
   ```
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00FF9C&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashik-muhmd&label=Profile%20Views&color=00FF9C&style=for-the-badge" alt="Profile views" />
 
 </div>
